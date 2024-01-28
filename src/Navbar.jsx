@@ -73,7 +73,7 @@ export default function Navbar() {
       <nav className=" lg:hidden w-full h-full bg-orange-300/[0.1] shadow-md shadow-orange-500 backdrop-blur-md flex justify-between gap-5 py-5 px-10">
         <div>
           <img
-            src="/public/assets/logo.webp"
+            src="assets/logo.webp"
             width={50}
             alt="img-logo"
             className="mt-10"
