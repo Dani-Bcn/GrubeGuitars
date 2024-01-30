@@ -51,7 +51,7 @@ export default function Navbar() {
   }, [stateMenu]); 
   return (
     <main className="fixed   lg:flex w-screen h-10">
-      <nav className=" hidden w-full h-full bg-orange-300/[0.1] shadow-md shadow-orange-500 backdrop-blur-md lg:flex justify-between gap-5 py-5 px-10">
+      <nav className=" hidden w-full h-full bg-orange-300/[0.1]  backdrop-blur-md lg:flex justify-between gap-5 py-5 px-10">
         <div>
           <img
             src="assets/logo.webp"

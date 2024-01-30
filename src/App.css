@@ -5,24 +5,20 @@
 * {
   padding: 0;
   margin: 0;
-  list-style: none;
-  justify-items: center;
+  justify-content: center;
   align-items: center;
-  text-align: center;
-  text-decoration: none;
 }
-
 body {
-  background-color: rgb(41, 41, 41);
-  overflow-x: "hidden";
+  overflow-x: hidden;
 }
 li{
   color: rgb(201, 201, 201);
   cursor: pointer;
   transition: all;
   transition-duration: 1;  
+  list-style: none;
 }
-
 li:hover{
   color: rgba(248, 195, 146, 0.904);
 }
+
